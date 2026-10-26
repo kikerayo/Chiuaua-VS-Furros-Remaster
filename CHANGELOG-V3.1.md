@@ -20,7 +20,7 @@ Los 30 archivos de vídeo y efectos incluidos se decodificaron sin errores. Las 
 
 El APK mantiene el mismo paquete y firma, con código de versión 4. Se comprueban firma, alineación y contenido; instalación y rendimiento en un teléfono real pendientes.
 
-Multijugador y extracción YouTube en Android siguen pospuestos. Publicación de los paquetes V3.1 en preparación.
+Multijugador y extracción YouTube en Android siguen pospuestos. V3.1 publicada para Windows y Android, con canal de actualizaciones activado.
 
 ## Procedencia de sonidos
 
