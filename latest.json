@@ -1,1 +1,13 @@
-{"version":"2V","version_code":2,"changelog":"Comunidad, carga y equilibrio.","windows":{"url":"https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v2V/Chiuaua.VS.Furros.Remaster.2V.exe","sha256":"f63d1db28d39549df10da7dedd069c2098d1da932ee3af7e1acdd6954bc4892c"},"android":{"url":"https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v2V/Chiuaua.VS.Furros.Remaster.2V.apk","sha256":"cae9666257ac16e72e8c507b77839f2b82ba7e43d5abff575b6b39d21ea6ef9a"}}
+{
+  "version": "V3.1",
+  "version_code": 4,
+  "changelog": "Catalogo 3D, cinematicas, sonidos, HUD de objetos y portales amarillos con Gucci.",
+  "windows": {
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1/Chiuaua.VS.Furros.Remaster.V3.1.exe",
+    "sha256": "c1c78d6d8ea0570b971ff9440b28df2c2f09bafeac749f5a7417a31a6b172e7f"
+  },
+  "android": {
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1/Chiuaua.VS.Furros.Remaster.V3.1.apk",
+    "sha256": "88f856d1efaaea857a680b629e83896a9811b339595112b10e51915bb5e01861"
+  }
+}
