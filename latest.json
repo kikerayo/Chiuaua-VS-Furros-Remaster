@@ -1,13 +1,13 @@
 {
-  "version": "V3.1",
-  "version_code": 4,
-  "changelog": "Catalogo 3D, cinematicas, sonidos, HUD de objetos y portales amarillos con Gucci.",
+  "version": "V3.1.1",
+  "version_code": 5,
+  "changelog": "Correccion del actualizador: descargas sin limite total de 25 segundos y alternativa por navegador.",
   "windows": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1/Chiuaua.VS.Furros.Remaster.V3.1.exe",
-    "sha256": "c1c78d6d8ea0570b971ff9440b28df2c2f09bafeac749f5a7417a31a6b172e7f"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1.1/Chiuaua.VS.Furros.Remaster.V3.1.1.exe",
+    "sha256": "1247f4b78ab901e6b01275a57c3fc81bc7ecfad544239321ee803d0f5eef69fd"
   },
   "android": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1/Chiuaua.VS.Furros.Remaster.V3.1.apk",
-    "sha256": "88f856d1efaaea857a680b629e83896a9811b339595112b10e51915bb5e01861"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.1.1/Chiuaua.VS.Furros.Remaster.V3.1.1.apk",
+    "sha256": "461a119989c509c37a95fbe2befb72f35ff994fe1f8012d9b303ed76efc74f98"
   }
 }
