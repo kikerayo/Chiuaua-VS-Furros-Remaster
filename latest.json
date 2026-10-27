@@ -1,13 +1,13 @@
 {
-  "version": "V3.2.1",
-  "version_code": 7,
-  "changelog": "MikaFurro cada 10 rondas; Alvin Correa, MikaFurro y TITAN CHIHUAHUA MAN al final del catalogo. Titan un 15% mas alto.",
+  "version": "V4.1",
+  "version_code": 9,
+  "changelog": "Menu con aura y transiciones, Sandbox dentro de Jugar, musica por pantalla, toast de mapa y optimizaciones.",
   "windows": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.2.1/Chiuaua.VS.Furros.Remaster.V3.2.1.exe",
-    "sha256": "e3a6577b6a74b556ca6abad0dd713457e3a0b3d3313a08123e21a3eea29105b8"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.1/Chiuaua.VS.Furros.Remaster.V4.1.exe",
+    "sha256": "355a90f64f755f16dd77966bb00384dab5c27f90f9d7fda7648f7cfa15385ea3"
   },
   "android": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v3.2.1/Chiuaua.VS.Furros.Remaster.V3.2.1.apk",
-    "sha256": "104a047867bfa0e6d0627dbc63f9ea1191c80417c8711b3b46c924fc49c32bef"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.1/Chiuaua.VS.Furros.Remaster.V4.1.apk",
+    "sha256": "de310d5e62e49a9be55e479c57cd523b88a30de33ccbebcb77ce7ac3f9f2df1c"
   }
 }
