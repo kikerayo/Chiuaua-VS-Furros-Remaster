@@ -1,13 +1,13 @@
 {
-  "version": "V4.1",
-  "version_code": 9,
-  "changelog": "Menu con aura y transiciones, Sandbox dentro de Jugar, musica por pantalla, toast de mapa y optimizaciones.",
+  "version": "V4.2",
+  "version_code": 10,
+  "changelog": "Mosahuahua, Coca-Cola, Papel y Patata; Gucci remasterizado; Grito polar, Escudo guardián y Segundo aliento.",
   "windows": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.1/Chiuaua.VS.Furros.Remaster.V4.1.exe",
-    "sha256": "355a90f64f755f16dd77966bb00384dab5c27f90f9d7fda7648f7cfa15385ea3"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.2/Chiuaua.VS.Furros.Remaster.V4.2.exe",
+    "sha256": "0d4e501e520f0a6ed8ebc509ec7159b25e62447a49e3fc87d4d50d30ce4e4553"
   },
   "android": {
-    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.1/Chiuaua.VS.Furros.Remaster.V4.1.apk",
-    "sha256": "de310d5e62e49a9be55e479c57cd523b88a30de33ccbebcb77ce7ac3f9f2df1c"
+    "url": "https://github.com/kikerayo/Chiuaua-VS-Furros-Remaster/releases/download/v4.2/Chiuaua.VS.Furros.Remaster.V4.2.apk",
+    "sha256": "914aaa1ebd8c0da3963753d554bd9d493b19fc78203fce7e9edaddedebac29f6"
   }
 }
